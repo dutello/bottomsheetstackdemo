@@ -1,0 +1,24 @@
+{
+  "name": "BottomSheetStackDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "@gorhom/bottom-sheet": "^4.6.4",
+    "dotenv": "^16.4.5",
+    "expo": "^51.0.36",
+    "react": "18.2.0",
+    "react-native": "0.75.4",
+    "react-native-gesture-handler": "^2.20.0",
+    "react-native-reanimated": "^3.15.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.11",
+    "metro": "^0.80.12",
+    "metro-react-native-babel-preset": "^0.77.0"
+  }
+}
